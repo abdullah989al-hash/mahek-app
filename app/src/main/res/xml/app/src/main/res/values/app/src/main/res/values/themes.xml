@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Mahek" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">#C1502E</item>
+        <item name="colorPrimaryDark">#241621</item>
+        <item name="android:windowBackground">#241621</item>
+    </style>
+</resources>
